@@ -58,6 +58,6 @@ bash skills/cloudflare-solution-architect/scripts/check_new_docs.sh
 Fold any new pages into the matching reference file and `catalog.md`, then bump `version` in `.claude-plugin/plugin.json`.
 
 ## License
-[MIT](LICENSE) for this project's own work.
+[MIT](LICENSE) for this project's own work. See [NOTICE](NOTICE) for third-party content.
 
 The reference files adapt (summarize, paraphrase and reorganize) content from the [Cloudflare Developer Documentation](https://developers.cloudflare.com/reference-architecture/), © Cloudflare, Inc., licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ([source](https://github.com/cloudflare/cloudflare-docs)). Those portions keep their attribution requirements. Cloudflare product names are trademarks of Cloudflare, Inc. This project is not affiliated with or endorsed by Cloudflare.

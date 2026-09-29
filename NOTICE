@@ -1,0 +1,11 @@
+Third-party content notice
+==========================
+
+Portions of the files under skills/cloudflare-solution-architect/references/
+are adapted (summarized, paraphrased, and reorganized) from the Cloudflare
+Developer Documentation (https://developers.cloudflare.com/reference-architecture/),
+Copyright (c) Cloudflare, Inc., licensed under the Creative Commons Attribution
+4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+Source: https://github.com/cloudflare/cloudflare-docs
+Those adapted portions remain subject to the attribution requirements of
+CC BY 4.0. Cloudflare and related product names are trademarks of Cloudflare, Inc.
