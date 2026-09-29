@@ -1,0 +1,18 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "cloudflare-solution-architect-skill",
+  "description": "Agent skill for designing system architectures on Cloudflare, distilled from Cloudflare Reference Architectures.",
+  "owner": {
+    "name": "quangyendn",
+    "url": "https://github.com/quangyendn"
+  },
+  "plugins": [
+    {
+      "name": "cloudflare-solution-architect",
+      "source": "./",
+      "description": "Design, review, and choose Cloudflare architectures (Developer Platform, application performance & security, SASE/Zero Trust, network services) grounded in Cloudflare Reference Architectures.",
+      "repository": "https://github.com/quangyendn/cloudflare-solution-architect-skill",
+      "keywords": ["cloudflare", "architecture", "solution-architect", "reference-architecture", "workers", "zero-trust", "sase", "waf"]
+    }
+  ]
+}
