@@ -7,5 +7,15 @@
     "url": "https://github.com/quangyendn"
   },
   "repository": "https://github.com/quangyendn/cloudflare-solution-architect-skill",
-  "keywords": ["cloudflare", "architecture", "solution-architect", "reference-architecture", "workers", "zero-trust", "sase", "waf"]
+  "keywords": [
+    "cloudflare",
+    "architecture",
+    "solution-architect",
+    "reference-architecture",
+    "workers",
+    "zero-trust",
+    "sase",
+    "waf"
+  ],
+  "license": "MIT"
 }
